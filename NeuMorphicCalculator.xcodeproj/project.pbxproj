@@ -32,6 +32,7 @@
 		DC0CF5F5248327A10087FA4E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DC0CF5F7248328460087FA4E /* IMG_1893.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_1893.PNG; sourceTree = "<group>"; };
 		DC0CF5F92483284A0087FA4E /* IMG_1892.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_1892.PNG; sourceTree = "<group>"; };
+		DC0CF5FB24840BDE0087FA4E /* PRIVACY POLICY.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "PRIVACY POLICY.md"; sourceTree = "<group>"; };
 		DC15AAAB2481BF210029C8E4 /* StringExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,6 +50,7 @@
 		AC3D7A3D247C033D002B9D4A = {
 			isa = PBXGroup;
 			children = (
+				DC0CF5FB24840BDE0087FA4E /* PRIVACY POLICY.md */,
 				DC0CF5F6248328380087FA4E /* Screenshots */,
 				DC0CF5F5248327A10087FA4E /* README.md */,
 				AC3D7A48247C033D002B9D4A /* NeuMorphicCalculator */,
